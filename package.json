@@ -3,6 +3,7 @@
 	"author": "zr8x",
 	"description": "goofy ahh",
 	"keywords": [ "goofy", "erm what the sigma", "rehehehe", "freecodecamp" ],
+	"license": "MIT",
 	"dependencies": {
 	  "express": "^4.14.0"
 	},
