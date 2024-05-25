@@ -1,6 +1,7 @@
 {
 	"name": "fcc-learn-npm-package-json",
-	"author": "Ezra Handzlik",
+	"author": "zr8x",
+	"description": "goofy ahh",
 	"dependencies": {
 	  "express": "^4.14.0"
 	},
