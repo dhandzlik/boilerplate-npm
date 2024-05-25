@@ -2,7 +2,7 @@
 	"name": "fcc-learn-npm-package-json",
 	"author": "zr8x",
 	"description": "goofy ahh",
-	"keywords": [ "goofy", "erm what the sigma", "rehehehe"],
+	"keywords": [ "goofy", "erm what the sigma", "rehehehe", "freecodecamp" ],
 	"dependencies": {
 	  "express": "^4.14.0"
 	},
